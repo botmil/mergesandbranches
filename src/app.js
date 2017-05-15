@@ -1,2 +1,1 @@
-console.log("hi");
-console.log("bye");
+console.log("no-wait-bye");
